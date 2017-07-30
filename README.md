@@ -1,4 +1,6 @@
 # InfinityLoopSlider
+javascript code ofr inifinity loop slider
+
 ## How to run
 ```python
 virtualenv venv
