@@ -1,5 +1,5 @@
 # InfinityLoopSlider
-> javascript code ofr inifinity loop slider
+> javascript code of inifinity loop slider
 
 ## How to run
 ```python
